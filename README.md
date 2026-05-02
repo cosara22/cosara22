@@ -9,7 +9,7 @@
 
 #### 🚀 注力中
 - **OSS メンテナー** — [Yamada UI](https://github.com/yamada-ui/yamada-ui)（2026年3月〜）
-- **AI × 事業** — AI 経営寄付講座「AI Business Insights 2026」修了
+- **AI × 事業** — 東京大学 AI 経営寄付講座「AI Business Insights 2026」修了
 
 #### 🛠️ 主な作品
 - **[MapLit](https://github.com/cosara22/maplit)** — ローカルビジネス向け AI 検索最適化 SaaS（Next.js / Prisma / OpenAI）
