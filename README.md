@@ -3,14 +3,13 @@
 薬剤師として現場に立ちながら、AI と開発の力で医療現場の課題を解こうとしています。
 
 #### 🩺 バックグラウンド
-- 薬剤師（2025年〜） / 奥羽大学 薬学部 卒
+- 薬剤師（2025年〜）
 - 調剤薬局で受付・投薬指導・薬歴管理を一通り経験
 - 現場の非効率に向き合いながら、経営陣への DX 提案・プロトタイプ作成
 
 #### 🚀 注力中
 - **OSS メンテナー** — [Yamada UI](https://github.com/yamada-ui/yamada-ui)（2026年3月〜）
-- **AI × 事業** — 東京大学 AI 経営寄付講座「AI Business Insights 2026」修了
-- **継続インプット** — 2026年に入ってから 約60件の勉強会に参加（松尾研 RAG ハンズオン、ベクトル検索輪読会 ほか）
+- **AI × 事業** — AI 経営寄付講座「AI Business Insights 2026」修了
 
 #### 🛠️ 主な作品
 - **[MapLit](https://github.com/cosara22/maplit)** — ローカルビジネス向け AI 検索最適化 SaaS（Next.js / Prisma / OpenAI）
@@ -23,7 +22,3 @@
 - 💼 Wantedly: [jin_sugihara857](https://www.wantedly.com/id/jin_sugihara857)
 - 🎯 Findy: [career-skills](https://findy-code.io/me/career-skills)
 - 🐦 X: [@nygFEPScwiO5gj3](https://x.com/nygFEPScwiO5gj3)
-
----
-
-> 医療現場の実務知識 × AI の社会実装視座 × OSS への継続貢献。技術と事業を翻訳し、動くものを作って運用まで届けます。
