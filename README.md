@@ -1,24 +1,30 @@
 ### 杉原 仁 / Jin Sugihara (@cosara22)
 
-薬剤師として現場に立ちながら、AI と開発の力で医療現場の課題を解こうとしています。
+AI エージェントに作業をさせる仕組みを作っています。
+評価ループのハーネス、タスク管理の AI 連携、3D モデル・アニメーションの生成パイプライン。
+作ったものと過程は [cosara.dev](https://cosara.dev) と X に置いています。
 
-#### 🩺 バックグラウンド
-- 薬剤師（2025年〜）
-- 調剤薬局で受付・投薬指導・薬歴管理を一通り経験
-- 現場の非効率に向き合いながら、経営陣への DX 提案・プロトタイプ作成
+#### 🔭 いま作っているもの
 
-#### 🚀 注力中
-- **OSS メンテナー** — [Yamada UI](https://github.com/yamada-ui/yamada-ui)（2026年3月〜）
-- **AI × 事業** — 東京大学 AI 経営寄付講座「AI Business Insights 2026」修了
+- **評価ループハーネス** — AI に作らせ、自動で採点し、修正させる開発ループの基盤
+- **AI 連携タスク管理** — タスクの登録・優先度付け・消化を AI エージェントと分担する仕組み
+- **3D・アニメーション生成パイプライン** — Hunyuan3D-2 での 3D 生成、アニメリグの感情パラメータ駆動
 
-#### 🛠️ 主な作品
+#### 🛠️ 公開リポジトリ
+
 - **[MapLit](https://github.com/cosara22/maplit)** — ローカルビジネス向け AI 検索最適化 SaaS（Next.js / Prisma / OpenAI）
-- **[Nippon Geo Quest](https://github.com/cosara22/travel-geography-app)** — 日本地理データ ETL + 静的 Web アプリ（Wikidata SPARQL / Vanilla JS）
 - **[MCP Orchestration Server](https://github.com/cosara22/mcp-orchestration-server)** — マルチエージェント開発基盤（TypeScript / MCP / Redis）
+- **[Nippon Geo Quest](https://github.com/cosara22/travel-geography-app)** — 日本地理データ ETL + 静的 Web アプリ（Wikidata SPARQL / Vanilla JS）
+
+#### 📚 バックグラウンド
+
+- 薬剤師
+- 2025 年から AI / ソフトウェアエンジニアへ転向
+- 東京大学 AI 経営寄付講座「AI Business Insights 2026」修了
 
 #### 🔗 リンク
-- 📝 Tech Blog: [Zenn @cosara](https://zenn.dev/cosara)
-- 🎟️ Connpass: [@cosara](https://connpass.com/user/cosara/)
-- 💼 Wantedly: [jin_sugihara857](https://www.wantedly.com/id/jin_sugihara857)
-- 🎯 Findy: [career-skills](https://findy-code.io/me/career-skills)
-- 🐦 X: [@nygFEPScwiO5gj3](https://x.com/nygFEPScwiO5gj3)
+
+- 🌐 Portfolio: [cosara.dev](https://cosara.dev)
+- 📝 Zenn: [@cosara](https://zenn.dev/cosara)
+- 🐦 X: [@cosara22](https://x.com/cosara22)
+- 🎟️ connpass: [@cosara](https://connpass.com/user/cosara/)
